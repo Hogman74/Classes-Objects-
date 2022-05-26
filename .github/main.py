@@ -1,4 +1,3 @@
-
 # python program to
 # demonstrate defining
 # a student class
